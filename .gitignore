@@ -1,0 +1,7 @@
+# Ignore data folder
+data/
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+*.jupyter/
+ .jupyter_cache/
